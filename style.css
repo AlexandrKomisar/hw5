@@ -1,0 +1,29 @@
+.app-footer {
+  display: block;
+  background-color: #121116;
+}
+.app-logo {
+  padding-top: 7%;
+  text-align: center;
+}
+.app-p {
+  color: #fcfcfc;
+  font-size: 20px;
+  display: table;
+  border-bottom: #fcfcfc 2px solid;
+  padding-bottom: 1%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.app-social {
+  text-align: center;
+}
+span {
+  color: #1da8d0;
+}
+.app-copiright {
+  color: #fcfcfc;
+  text-align: center;
+  font-size: 15px;
+  padding-bottom: 3%;
+}
